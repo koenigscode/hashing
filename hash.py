@@ -1,8 +1,3 @@
-"""
-Task: With a SHA256 hash given find out the password consisting of two words and a special character (!$%&/()=?)
-The words are provided in words.txt
-"""
-
 from time import time
 from hashlib import sha256
 
